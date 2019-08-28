@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    font-family: 'DM Serif Display', serif;
+}
+
+canvas {
+    background-color: rgba(41, 114, 224, 0.3);
+    border: none;
+}
+
+h1 {
+    margin: 0;
+    padding: 10px;
+    text-transform: uppercase;
+    color: #191970;
+    background: rgb(142,142,215);
+    background: linear-gradient(0deg, rgba(142,142,215,1) 0%, rgba(71,200,233,1) 86%);
+    text-align: center;
+}
+
+.remove {
+    display: none;
+    visibility: hidden;
+}
